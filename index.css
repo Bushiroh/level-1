@@ -1,0 +1,35 @@
+h1{
+    color: blue;
+    padding-left: 20px;
+}
+.p1{
+    color: red;
+    margin: 30px;
+}
+#ac{
+    color: blueviolet;
+    text-decoration: none;
+}
+.div{
+    height: 300px;
+    width: 300px;
+    background-color: black;
+    border: 8px solid red;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+  }
+  th, td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+  }
+  th {
+    background-color: #06a31b;
+  }
+  tr:nth-child(even) {
+    background-color: #f1ecec;
+  }
